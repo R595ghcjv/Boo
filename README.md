@@ -1,2 +1,2 @@
-# Boo
+.gitignore# Boo
 حركة 
